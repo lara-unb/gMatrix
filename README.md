@@ -1,5 +1,5 @@
 # gMatrix
-gMatrix ais a matrix calculus and linear algebra librarry written in C language. Source code is profided and the included functions are coonfigurable. It has been tested on different platforms, including microcontrollers.
+gMatrix is a matrix calculus and linear algebra librarry written in C language. Source code is profided and the included functions are coonfigurable. It has been tested on different platforms, including microcontrollers.
 
 Package description for [version 2.1](https://github.com/lara-unb/gMatrix/blob/master/release-v2.1.rar):
 
